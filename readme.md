@@ -1,4 +1,5 @@
 # PS3 Proxy for custom firmware version
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)   
 
 As today there is a new PS3 firmware (and I have a previous firmware) but I want to be able to activate the Playstation without use Windows tools (as I am on Linux) and without waiting for a new modded firmware version.  
 
